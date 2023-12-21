@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Aidan/source/repos/tutorialShootingGallery/Content/crosshairs.png","C:/Users/Aidan/source/repos/tutorialShootingGallery/Content/bin/DesktopGL/Content/crosshairs.xnb","TextureProcessor","Texture2DContent",1892,10085,0.1057475
+"C:/Users/Aidan/source/repos/tutorialShootingGallery/Content/galleryFont.spritefont","C:/Users/Aidan/source/repos/tutorialShootingGallery/Content/bin/DesktopGL/Content/galleryFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70687,0.0808276
+"C:/Users/Aidan/source/repos/tutorialShootingGallery/Content/sky.png","C:/Users/Aidan/source/repos/tutorialShootingGallery/Content/bin/DesktopGL/Content/sky.xnb","TextureProcessor","Texture2DContent",1079607,9216085,0.2274984
+"C:/Users/Aidan/source/repos/tutorialShootingGallery/Content/target.png","C:/Users/Aidan/source/repos/tutorialShootingGallery/Content/bin/DesktopGL/Content/target.xnb","TextureProcessor","Texture2DContent",3395,32485,0.0029254
