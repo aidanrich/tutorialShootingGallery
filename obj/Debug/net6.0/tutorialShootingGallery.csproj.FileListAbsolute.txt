@@ -27,3 +27,4 @@ C:\Users\Aidan\source\repos\tutorialShootingGallery\bin\Debug\net6.0\Content\cro
 C:\Users\Aidan\source\repos\tutorialShootingGallery\bin\Debug\net6.0\Content\galleryFont.xnb
 C:\Users\Aidan\source\repos\tutorialShootingGallery\bin\Debug\net6.0\Content\sky.xnb
 C:\Users\Aidan\source\repos\tutorialShootingGallery\bin\Debug\net6.0\Content\target.xnb
+C:\Users\Aidan\source\repos\tutorialShootingGallery\obj\Debug\net6.0\tutorialShootingGallery.sourcelink.json
